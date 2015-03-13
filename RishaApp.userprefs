@@ -1,0 +1,9 @@
+﻿<Properties StartupItem="RishaApp\RishaApp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.MyPhone" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RishaApp MonoForAntroid.PreferredDevice="3.2&quot; HVGA slider (ADP1)" MonoForAntroid.PreferredTheme="Theme.Holo.Light" />
+</Properties>
